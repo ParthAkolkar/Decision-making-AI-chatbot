@@ -21,6 +21,7 @@ Features
 
 Tech Stack
 Frontend: Gradio – for interactive web UI.
+Demo Youtube link - (https://youtu.be/hUw3_zXtZF4?si=pyA2xXc3PhZRkdmQ)
 
 Backend: Python
 
